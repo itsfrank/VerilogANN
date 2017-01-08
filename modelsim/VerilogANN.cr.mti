@@ -1,0 +1,22 @@
+C:/GitMain/Verilog/VerilogANN/activation_fn.v {1 {vlog -work work -sv -stats=none C:/GitMain/Verilog/VerilogANN/activation_fn.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module activation_fn
+
+Top level modules:
+	activation_fn
+
+} {} {}} C:/GitMain/Verilog/VerilogANN/cell.v {1 {vlog -work work -sv -stats=none C:/GitMain/Verilog/VerilogANN/cell.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module neuron
+
+Top level modules:
+	neuron
+
+} {} {}} C:/GitMain/Verilog/VerilogANN/testbench.v {1 {vlog -work work -sv -stats=none C:/GitMain/Verilog/VerilogANN/testbench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

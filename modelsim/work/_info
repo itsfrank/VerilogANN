@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vactivation_fn
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1483824394
+!i10b 1
+!s100 NTjmfkPTl_dFHT7IJnQWD3
+ISS2:_E:jJ1XbHjWSS?GgK2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 activation_fn_v_unit
+S1
+Z3 dC:/GitMain/Verilog/VerilogANN/modelsim
+w1483654141
+8C:/GitMain/Verilog/VerilogANN/activation_fn.v
+FC:/GitMain/Verilog/VerilogANN/activation_fn.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1483824394.000000
+!s107 C:/GitMain/Verilog/VerilogANN/activation_fn.v|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/GitMain/Verilog/VerilogANN/activation_fn.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vneuron
+R0
+!s110 1483824395
+!i10b 1
+!s100 eOIK3J6W71RG^8B^7iHHg0
+I69Y@ak@akLdf2k>]bn6dT1
+R2
+Z7 !s105 cell_v_unit
+S1
+R3
+w1483824391
+Z8 8C:/GitMain/Verilog/VerilogANN/cell.v
+Z9 FC:/GitMain/Verilog/VerilogANN/cell.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/GitMain/Verilog/VerilogANN/cell.v|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/GitMain/Verilog/VerilogANN/cell.v|
+!s101 -O0
+!i113 1
+R6
+vsimple_mult
+R0
+Z11 !s110 1483823884
+!i10b 1
+!s100 fCUXna<IT2?b2U1eG<Jaa1
+IlP^]e>5ljWglhNiHGN7[c3
+R2
+R7
+S1
+R3
+Z12 w1483823882
+R8
+R9
+L0 37
+R4
+r1
+!s85 0
+31
+Z13 !s108 1483823884.000000
+!s107 C:/GitMain/Verilog/VerilogANN/cell.v|
+R10
+!s101 -O0
+!i113 1
+R6
+vsimple_sum
+R0
+R11
+!i10b 1
+!s100 lIUzDV804VgRc6@9ccZHT0
+ICV5BhBEFfWa9RGd:1CBUV2
+R2
+R7
+S1
+R3
+R12
+R8
+R9
+L0 47
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/GitMain/Verilog/VerilogANN/cell.v|
+R10
+!s101 -O0
+!i113 1
+R6
+vtestbench
+R0
+R1
+!i10b 1
+!s100 K61GmkR=EOcaTV?jfdmVK1
+II0allLDme8:R`DNC=TaD<3
+R2
+!s105 testbench_v_unit
+S1
+R3
+w1483654197
+8C:/GitMain/Verilog/VerilogANN/testbench.v
+FC:/GitMain/Verilog/VerilogANN/testbench.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/GitMain/Verilog/VerilogANN/testbench.v|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/GitMain/Verilog/VerilogANN/testbench.v|
+!s101 -O0
+!i113 1
+R6
